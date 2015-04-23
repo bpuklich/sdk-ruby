@@ -2,3 +2,5 @@ Gemfile.lock
 spec/credentials.yml
 .ruby-*
 .idea
+.rakeTasks
+sdk-ruby.iml
